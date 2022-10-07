@@ -11,13 +11,14 @@
 - - singing
 - 📫 How to reach me ...
 - - paypal:      paypal.me/drakeredwind01
-- - website:     www.redwind01.com 
+- - website:     www.redwind01.com (under construction)
 - - linkedin:    https://www.linkedin.com/in/drake-redwind-36815512a/
 - - youtube:     https://www.youtube.com/c/DrakeRedWind01
-- - twitch:      https://www.twitch.tv/redwind01
 - - discord:     https://discord.gg/WbcWqVq
+- You can also find me on
 - - facebook:    https://www.facebook.com/drake.redwind.73/
 - - twitter:     https://twitter.com/drakeredwind011
+- - twitch:      https://www.twitch.tv/redwind01
 - offers
 - - freebitco:   https://freebitco.in/?r=5637308
 
