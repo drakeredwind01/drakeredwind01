@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @drakeredwind01
 - 👀 I’m interested in GETTING A JOB
 - - Cybersecurity (cyber security)
+- - automation
+- - survival
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on 
 - - python security projects
