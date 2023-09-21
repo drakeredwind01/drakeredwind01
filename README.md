@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @drakeredwind01
+- I'm offering a 10% finders fee for the first months paycheck
+- please look at the below link for details
+- https://github.com/drakeredwind01/drakeredwind01s_resume
 - 👀 I’m interested in GETTING A JOB
 - - Cybersecurity (cyber security)
 - - automation
