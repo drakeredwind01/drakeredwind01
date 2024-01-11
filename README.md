@@ -22,7 +22,8 @@
 - - facebook:    https://www.facebook.com/drake.redwind.73/
 - - twitter:     https://twitter.com/drakeredwind011
 - - twitch:      https://www.twitch.tv/redwind01
-- offers
+- investments
+- - ROI %50 [Ground Floor](https://app.groundfloor.us/r/q92940): easily earn $50 when invest $100 
 - - freebitco:   https://freebitco.in/?r=5637308
 
 
