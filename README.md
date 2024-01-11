@@ -2,6 +2,9 @@
 - I'm offering a 10% finders fee for the first months paycheck
 - please look at the below link for details
 - https://github.com/drakeredwind01/drakeredwind01s_resume
+- 👨‍💻 come see my code: [Free-time-coding](https://github.com/drakeredwind01/Free-time-coding)
+- 🧠 check out my survival guide: [Everyday_Survival](https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival.md)
+- 📖 view my sample knowlege: [Knowlege](https://github.com/drakeredwind01/Knowlege)
 - 👀 I’m interested in GETTING A JOB
 - - Cybersecurity (cyber security)
 - - automation
