@@ -1,6 +1,6 @@
 <br>
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ST52XKHMRTU84&source=url" target="_blank" rel="noopener noreferrer">
-  <img src="media\NicePng_secure-checkout-png_1105871 2.png" width="25%">
+  <img src="media\NicePng_secure-checkout-png_1105871.png" width="25%">
 </a><br>
 
 
